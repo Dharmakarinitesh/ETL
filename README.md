@@ -2,13 +2,21 @@
 **Project Documentation Structure**
 
 **Project Overview:** State the project's purpose, e.g., analyzing product revenue across states to uncover geographic trends and inform strategic decisions.​
+
 **Business Requirements:** Specify business goals, desired reporting granularity (state, product type), and intended insights.​
+
 **Data Sources:** List all relevant sources, e.g., transactional databases, sales APIs, external revenue datasets, including schema documentation, data dictionaries, and links to data catalogs.​
+
 **ETL Pipeline Documentation:** Clearly describe each step—data extraction, cleansing, transformation (e.g., categorizing revenue by state), and loading. Include diagrams, comments in code, and details about where data is stored and processed.​
+
 **Data Quality Assurance:** Document validation rules, checks for completeness, consistency across states, and metrics used (e.g., minimum transaction count per state).​
+
 **Data Product Output:** Describe analytical dashboards or reports, such as visualizations of revenue by state using tools like Tableau or Power BI. Include explanation of key performance indicators (KPIs) and their business relevance.​
+
 **Ownership, Governance & Compliance:** Assign owners for data pipelines, outline compliance measures (GDPR/HIPAA if relevant), and state service-level agreements (SLAs) for data availability and updates.​
+
 **Maintenance and Monitoring:** Detail how updates are managed, performance monitoring procedures, and logging for audits.​
+
 **Revision History:** Track major changes to data sources, pipeline logic, and documentation itself for transparency.
 
 **Best Practices**
